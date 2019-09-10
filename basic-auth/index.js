@@ -1,11 +1,11 @@
 var https = require('https');
 
 var options = {
-    host: 'auth0sync.aidbox.app',
-    path: '/Client',
+    host: 'YOUR_BOX_NAME',
+    path: 'PATH',               //example /Client
     method: 'GET',
     headers: {
-        'Authorization': 'Basic ' + 'YmFzaWM3OnNlY3JldDc='
+        'Authorization': 'Basic ' + '[Base64_of_your_id:secret]'
     }
 };
 

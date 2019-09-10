@@ -1,6 +1,6 @@
 ## Auth Series for Aidbox
 
-Set of sample apps and tutorias for auth in aidbox
+Set of sample apps and tutorials for auth in aidbox.
 
 ### 1. Basic Auth
 
